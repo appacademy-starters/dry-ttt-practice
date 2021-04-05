@@ -1,1 +1,0 @@
-# dry-ttt-practice
